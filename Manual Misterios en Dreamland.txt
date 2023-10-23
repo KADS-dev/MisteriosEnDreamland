@@ -1,0 +1,29 @@
+Manual de Usuario - Enigma de Dreamland
+
+¡Bienvenido al "Enigma de Dreamland"! En este emocionante juego, te unirás al Rey Dedede y su leal asistente, Escargot, para resolver un misterio en Dreamland. Tienes la tarea de descubrir qué Kirby hizo qué y dónde en una serie de misteriosos robos. ¿Estás preparado para el desafío? ¡Sigue estos pasos para jugar y resolver el enigma!
+
+1. Historia del juego
+Cuando inicies el juego, se te mostrará la historia de fondo del Rey Dedede y los misteriosos robos en Dreamland. Lee con atención para comprender el contexto del juego y la tarea que tienes por delante.
+
+2. Casos Resueltos y Disponibles
+Antes de comenzar a interrogar a los Kirbies, verás cuántos casos se han resuelto hasta el momento y cuántos casos están disponibles para resolver. Tu objetivo es resolver todos los casos posibles.
+
+3. Interrogar a los Kirbies
+
+    Selecciona a uno de los cinco Kirbies sospechosos para interrogar.
+    Luego, deberás adivinar la ubicación y la acción que ese Kirby realizó durante los robos. Tienes la opción de elegir entre las ubicaciones posibles y las acciones posibles.
+    Si adivinas correctamente tanto la ubicación como la acción, habrás resuelto el caso de ese Kirby.
+    Si te equivocas en alguna de las respuestas, el Kirby perderá un intento, y podrás recibir pistas para ayudarte a resolver el caso.
+
+4. Pistas
+En cualquier momento durante el interrogatorio, puedes solicitar pistas sobre la ubicación o la acción del Kirby que estás interrogando. Las pistas te ayudarán a tomar una decisión más informada.
+
+5. Resolver Casos y Progresar
+Después de cada interrogatorio, se te informará si has resuelto el caso del Kirby sospechoso. Si tienes éxito, el número de casos resueltos aumentará, y el Kirby en cuestión ya no estará disponible para ser interrogado de nuevo.
+
+6. Fin del Juego
+El juego terminará cuando hayas resuelto todos los casos disponibles o cuando te quedes sin intentos para interrogar a los Kirbies. En ese momento, se mostrará tu puntuación y tendrás la opción de volver a jugar si lo deseas.
+
+¡Buena suerte en tu búsqueda de la verdad en Dreamland!
+
+Recuerda, la justicia en el reino depende de tu habilidad para resolver el misterio y exponer a los verdaderos culpables. ¡Diviértete jugando "Enigma de Dreamland" y demuestra tus habilidades de detective!
